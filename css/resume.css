@@ -1,0 +1,43 @@
+.resume{
+    height: 550px;
+    border: solid;
+}
+.box1{
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+.box2{
+    width: 80%;
+    height: 20%;
+    float: left;
+    background-color:red;
+    color: white;
+}
+.box3{
+    width: 20%;
+    height: 40%;
+    float: left;
+    color: red;
+}
+.box4{
+    width: 80%;
+    height: 40%;
+    float: left;
+}
+.box5{
+    width: 20%;
+    height: 40%;
+    float: left;
+}
+.box6{
+    width: 80%;
+    height: 40%;
+    float: left;
+}
+.box2 p{
+    font-size: medium;
+}
+h3{
+    color: red;
+}

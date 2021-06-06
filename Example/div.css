@@ -1,0 +1,30 @@
+.login{
+    height: 550px;
+    border: solid;
+}
+.left{
+    height: 80%;
+    width: 25%;
+    background-color: blue;
+    float: left;
+}
+.center{
+    height: 80%;
+    width: 55%;
+    background-color: brown;
+    float: left;
+}
+.right{
+    height: 80%;
+    width: 20%;
+    float: left;
+}
+.down{
+    height: 20%;
+    width: 100%;
+    background-color: chartreuse;
+    float: left;
+}
+.right li,ol{
+    border: solid;
+}

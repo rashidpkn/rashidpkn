@@ -1,0 +1,13 @@
+.mainborder{
+    margin-top: 0px;
+    text-align: center;
+    background: cornflowerblue;
+    height: 50px;
+}
+.mainbutton{
+    text-align: center;
+    background-color:floralwhite;
+    border: solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
